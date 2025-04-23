@@ -2,4 +2,4 @@
 
 Check out my portfolio here:
 
-You can reach me here: [mailto:luke@sukelully.dev](luke@sukelully.dev)
+You can reach me here: [luke@sukelully.dev](mailto:luke@sukelully.dev)
