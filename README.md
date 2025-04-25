@@ -4,6 +4,12 @@
 
 I love making interactive and musical web apps. Feel free to get in touch!
 
-Check out my developer portfolio to see what I'm working on my past work: [https://sukelully.dev](sukelully.dev)
 
-You can reach me here: [luke@sukelully.dev](mailto:luke@sukelully.dev)
+
+Check out my developer portfolio to see what I'm working on my past work: 
+
+[https://sukelully.dev](sukelully.dev)
+
+You can reach me here:
+
+[luke@sukelully.dev](mailto:luke@sukelully.dev)
