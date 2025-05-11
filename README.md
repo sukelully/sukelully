@@ -4,7 +4,7 @@
 
 I design and build interactive, musical web experiences with a focus on creativity, code, and sound.  
 
-Currently building: [**Unwind Chimes**](https://sukelully.dev) — a generative ambience tool that blends audio synthesis with physics simulation.
+Currently building: [**Unwind Chimes**](https://sukelully.github.io/unwind-chimes) — a generative ambience tool that blends audio synthesis with physics simulation.
 
 ---
 
