@@ -1,14 +1,20 @@
-## Hi! I'm Luke.
+## 👋 Hi, I'm Luke
 
-### I'm a front-end developer with a background in electronic engineering and audio technology.
+### 🎛️ Full-Stack Development | 🎧 Audio Technology | ⚡ Former Electronics Engineer
 
-I love making interactive and musical web apps. Feel free to get in touch!
-<br>
-<br>
-Check out my developer portfolio to see what I'm working on: 
+I design and build interactive, musical web experiences with a focus on creativity, code, and sound.  
 
-[sukelully.dev](https://sukelully.dev)
+Currently building: [**Unwind Chimes**](https://sukelully.dev) — a generative ambience tool that blends audio synthesis with physics simulation.
 
-You can reach me here:
+---
 
-[luke@sukelully.dev](mailto:luke@sukelully.dev)
+🌐 **Portfolio:** [sukelully.dev](https://sukelully.dev)  
+📬 **Email:** [luke@sukelully.dev](mailto:luke@sukelully.dev)
+
+---
+
+🛠️ **Tech I use:**  
+JavaScript / HTML / CSS • React • Python
+
+🎯 **What I'm into right now:**  
+Creative coding • Real-time interactions • Audio synthesis • Full-stack learning
