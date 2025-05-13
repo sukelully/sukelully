@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Luke
+## Hi, I'm Luke
 
 I'm a developer with a background in electronic engineering and audio technology.
 
@@ -6,5 +6,5 @@ I'm currently working on [**Unwind Chimes**](https://sukelully.github.io/unwind-
 
 ---
 
-🌐 **Portfolio:** [sukelully.dev](https://sukelully.dev)  
-📬 **Email:** [luke@sukelully.dev](mailto:luke@sukelully.dev)
+**Portfolio:** [sukelully.dev](https://sukelully.dev)  
+**Email:** [luke@sukelully.dev](mailto:luke@sukelully.dev)
