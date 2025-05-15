@@ -2,7 +2,7 @@
 
 I'm a developer with a background in electronic engineering and audio technology.
 
-I'm currently working my through The Odin Project and freeCodeCamp, as well as my own project [**Unwind Chimes**](https://sukelully.github.io/unwind-chimes).
+I'm currently working my way through The Odin Project and freeCodeCamp, as well as my own project [**Unwind Chimes**](https://sukelully.github.io/unwind-chimes).
 
 ---
 
